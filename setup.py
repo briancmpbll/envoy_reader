@@ -54,7 +54,7 @@ extra_requirements = {
 
 
 setuptools.setup(
-    name="envoy_reader",
+    name="envoy_reader_custom",
     version="0.21.3",
     author="Jesse Rizzo",
     author_email="jesse.rizzo@gmail.com",
